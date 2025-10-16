@@ -5,7 +5,7 @@ let userID = 'aa968ce1-707b-4be5-8c6a-758c6ed66e60';
 let proxyIP = 'ProxyIP.SG.CMLiussss.net';
 //let sub = '';
 let subConverter = atob('U3ViQXBpLkNtbGlVc3NzUy5OZXQ=');
-let subConfig = atob('https://raw.githubusercontent.com/cheng5577/ClashRule/refs/heads/main/ACL4SSR.ini');
+let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
 let subProtocol = 'https';
 let subEmoji = 'true';
 let socks5Address = '';
@@ -5814,5 +5814,6 @@ async function handleWebSocket(request) {
     });
 
 }
+
 
 
